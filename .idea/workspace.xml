@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d30a13a-fb66-4d89-bc29-74186a1de352" name="Default Changelist" comment="t2">
-      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d30a13a-fb66-4d89-bc29-74186a1de352" name="Default Changelist" comment="t2" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/Second.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -137,7 +135,7 @@
       <workItem from="1555420850505" duration="5722000" />
       <workItem from="1555601519840" duration="146000" />
       <workItem from="1557244660372" duration="535000" />
-      <workItem from="1557246835953" duration="1197000" />
+      <workItem from="1557246835953" duration="1499000" />
     </task>
     <task id="LOCAL-00001" summary="fd">
       <created>1555430861662</created>
@@ -164,11 +162,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7600000" />
+    <option name="totallyTimeSpent" value="7902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49470899" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" sideWeight="0.505291" side_tool="true" visible="true" weight="0.26153848" />
@@ -267,7 +264,7 @@
     <entry file="file://$PROJECT_DIR$/src/Second.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
         </state>
       </provider>
     </entry>
