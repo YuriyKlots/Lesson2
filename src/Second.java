@@ -1,10 +1,13 @@
 public class Second {
     // ctrl + alt + l
     public static void main(String[] args) {
+        t1();
+        t2();
         t3();
     }
 
     public static void t1() {
+        System.out.println("Масив з усіх непарних чисел від 1 до 99");
         int[] mas = new int[50];
         int j = 1;
         for (int i = 0; i < mas.length; i++, j += 2) {
@@ -18,12 +21,13 @@ public class Second {
         for (int i = mas.length - 1; i >= 0; i--) {
             System.out.print(mas[i] + " ");
         }
-        System.out.println("\n");
+        System.out.println("\n\n");
 
     }
 
 
     public static void t2() {
+        System.out.println(" 8 випадкових цілих чисел з відрізка [1; 10]");
         int[] mas = {2, 7, 5, 9, 2, 7, 5, 9};
 
         for (int i = 0; i < mas.length; i++) {
@@ -34,12 +38,13 @@ public class Second {
         for (int i = 0; i < mas.length; i++) {
             System.out.print(mas[i] + " ");
         }
-        System.out.println("\n");
+        System.out.println("\n\n\n");
 
     }
 
     public static void t3() {
-        int day = 9;
+        System.out.println("день тижня");
+        int day = 3;
         String weekday;
 
 // test
